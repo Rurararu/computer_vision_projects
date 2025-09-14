@@ -6,4 +6,7 @@
 ### Pneumonia classification
 **Repository:** [Pneumonia_classification](https://github.com/Rurararu/Pneumonia_classification.git)
 
+### Image classification
+**Repository:** [Image_classification](https://github.com/Rurararu/Image_classification.git)
+
 
