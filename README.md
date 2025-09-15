@@ -9,4 +9,5 @@
 ### Image classification
 **Repository:** [Image_classification](https://github.com/Rurararu/Image_classification.git)
 
-
+### Emotion detection
+**Repository:** [Emotion_detection](https://github.com/Rurararu/Emotion_detection.git)
