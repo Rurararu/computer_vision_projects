@@ -1,4 +1,4 @@
-## Compoter vision navigation
+## Computer vision navigation
 
 ### Sign Language Detection
 **Repository:** [Sign_language_detection](https://github.com/Rurararu/Sign_language_detection.git)
@@ -14,4 +14,8 @@
 
 ### Speech emotion recognition
 **Repository:** [Speech_emotion_Recognition](https://github.com/Rurararu/Speech_emotion_Recognition.git)
+
+### Color detection
+**Repository:** [Color_detection](https://github.com/Rurararu/Color_detection.git)
+
 
