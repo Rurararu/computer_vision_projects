@@ -18,4 +18,7 @@
 ### Color detection
 **Repository:** [Color_detection](https://github.com/Rurararu/Color_detection.git)
 
+### Face anonymizer
+**Repository:** [Face_aninymizer](https://github.com/Rurararu/Face_aninymizer.git)
+
 
