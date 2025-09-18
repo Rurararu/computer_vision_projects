@@ -12,9 +12,6 @@
 ### Emotion detection
 **Repository:** [Emotion_detection](https://github.com/Rurararu/Emotion_detection.git)
 
-### Speech emotion recognition
-**Repository:** [Speech_emotion_Recognition](https://github.com/Rurararu/Speech_emotion_Recognition.git)
-
 ### Color detection
 **Repository:** [Color_detection](https://github.com/Rurararu/Color_detection.git)
 
