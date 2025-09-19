@@ -18,4 +18,7 @@
 ### Face anonymizer
 **Repository:** [Face_aninymizer](https://github.com/Rurararu/Face_aninymizer.git)
 
+### Image classification with feature extraction
+**Repository:** [Img_classif_with_feature_extraction](https://github.com/Rurararu/Img_classif_with_feature_extraction.git)
+
 
