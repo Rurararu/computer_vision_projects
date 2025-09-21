@@ -21,4 +21,7 @@
 ### Image classification with feature extraction
 **Repository:** [Img_classif_with_feature_extraction](https://github.com/Rurararu/Img_classif_with_feature_extraction.git)
 
+### Classification Pretrained
+**Repository:** [Classification_Pretrained](https://github.com/Rurararu/Classification_pretrained.git)
+
 
